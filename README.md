@@ -27,3 +27,5 @@ Big data to the rescue -- applying big data to create intelligent transportatio
 [TimeSeriesFinal](/Users/jbpatty/project-5/TimeSeriesFinal.ipynb) shows the use of ARIMA and Facebook Prophet for an end-to-end project on time series analysis and forecasting with Python
 
 [DivvyMerge](/Users/jbpatty/project-5/DivvyMerge.ipynb) and [TrafficMerge](/Users/jbpatty/project-5/TrafficMerge.ipynb) show the process of loading, cleaning, and merging 22 million rows of Divvy Bike Share rides and 19 million rows of Chicago traffic congestion records
+
+Project slides: [Divvy_Bike_Share_Slides](/Users/jbpatty/project-5/Divvy_Bike_Share.pdf)
