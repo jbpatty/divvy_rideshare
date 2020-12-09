@@ -24,6 +24,6 @@ This is something Divvy should keep their eye on. If this prediction holds Divvy
 Big data to the rescue -- applying big data to create intelligent transportation systems is key to solving urban mobility problems. Data and analytics on traffic and population movement help city planners and engineers make data-based decisions to prioritize spending in order to maximize benefits and reduce costs.
 
 ### Files
-[TimeSeriesFinal](/Users/jbpatty/project-5/TimeSeriesFinal.ipynb) shows the use of ARIMA and Facebook Prophet for an end-to-end project on time series analysis and forecasting with Python
+[TimeSeriesFinal](/Users/jbpatty/project-5/TimeSeriesFinal.ipynb) shows the use of ARIMA and Facebook Prophet for an end-to-end time series analysis and forecasting with Python
 
 [DivvyMerge](/Users/jbpatty/project-5/DivvyMerge.ipynb) and [TrafficMerge](/Users/jbpatty/project-5/TrafficMerge.ipynb) show the process of loading, cleaning, and merging 22 million rows of Divvy Bike Share rides and 19 million rows of Chicago traffic congestion records
